@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imanifriend
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in Data Analysis and Data Science
 - 🌱 I’m currently learning Python
 - 📫 How to reach me imani.friend95@gmail.com
 
